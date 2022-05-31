@@ -12,7 +12,7 @@
     ],
     "repositories": {
         "asthapandey06/composer-testing": {
-            "type":"git",
+            "type":"vcs",
             "url": "https://github.com/asthapandey06/composer-testing.git"
         }
     },
