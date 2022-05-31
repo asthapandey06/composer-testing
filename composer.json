@@ -1,0 +1,14 @@
+{
+    "name": "asthapandey06/composer-testing",
+    "description": "composer testing",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "astha",
+            "email": "asthapandey2022jan@cedcoss.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
