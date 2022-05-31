@@ -16,6 +16,6 @@
             "url": "https://github.com/asthapandey06/composer-testing.git"
         }
     },
-    "minimum-stablility": "stable",
+    "minimum-stability": "stable",
     "require": {}
 }
