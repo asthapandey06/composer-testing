@@ -10,5 +10,11 @@
             "email": "asthapandey2022jan@cedcoss.com"
         }
     ],
+    "repositories": {
+        "asthapandey06/composer-testing": {
+            "type":"git",
+            "url": "git@github.com:asthapandey06/composer-testing.git"
+        }
+    },
     "require": {}
 }
