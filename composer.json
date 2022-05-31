@@ -7,6 +7,10 @@
             "email": "asthapandey2022jan@cedcoss.com"
         }
     ],
-   
+   "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
     "require": {}
 }
